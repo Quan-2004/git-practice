@@ -1,0 +1,3 @@
+Tôi nguoi Viet Nam.
+Tôi thích ăn gà rán, thích đi bơi, thích nau ăn.
+Biet lap tinh Java, Kotlin, Flutter, C#, C++, C….
